@@ -1,0 +1,4 @@
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo6\obj\Debug\net8.0\Codigo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo6\obj\Debug\net8.0\Codigo6.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo6\obj\Debug\net8.0\Codigo6.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo6\obj\Debug\net8.0\Codigo6.csproj.CoreCompileInputs.cache

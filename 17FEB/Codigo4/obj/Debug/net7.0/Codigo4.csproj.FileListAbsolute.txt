@@ -1,0 +1,33 @@
+C:\Users\Alumno\Desktop\Codigo4\obj\Debug\net7.0\Codigo4.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Codigo4\obj\Debug\net7.0\Codigo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Codigo4\obj\Debug\net7.0\Codigo4.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Codigo4\obj\Debug\net7.0\Codigo4.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Codigo4\obj\Debug\net7.0\Codigo4.csproj.CoreCompileInputs.cache
+D:\Codigo4\bin\Debug\net7.0\Codigo4.exe
+D:\Codigo4\bin\Debug\net7.0\Codigo4.deps.json
+D:\Codigo4\bin\Debug\net7.0\Codigo4.runtimeconfig.json
+D:\Codigo4\bin\Debug\net7.0\Codigo4.dll
+D:\Codigo4\bin\Debug\net7.0\Codigo4.pdb
+D:\Codigo4\obj\Debug\net7.0\Codigo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigo4\obj\Debug\net7.0\Codigo4.AssemblyInfoInputs.cache
+D:\Codigo4\obj\Debug\net7.0\Codigo4.AssemblyInfo.cs
+D:\Codigo4\obj\Debug\net7.0\Codigo4.csproj.CoreCompileInputs.cache
+D:\Codigo4\obj\Debug\net7.0\Codigo4.dll
+D:\Codigo4\obj\Debug\net7.0\refint\Codigo4.dll
+D:\Codigo4\obj\Debug\net7.0\Codigo4.pdb
+D:\Codigo4\obj\Debug\net7.0\Codigo4.genruntimeconfig.cache
+D:\Codigo4\obj\Debug\net7.0\ref\Codigo4.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\bin\Debug\net7.0\Codigo4.exe
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\bin\Debug\net7.0\Codigo4.deps.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\bin\Debug\net7.0\Codigo4.runtimeconfig.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\bin\Debug\net7.0\Codigo4.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\bin\Debug\net7.0\Codigo4.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\refint\Codigo4.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\Codigo4.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo4\obj\Debug\net7.0\ref\Codigo4.dll

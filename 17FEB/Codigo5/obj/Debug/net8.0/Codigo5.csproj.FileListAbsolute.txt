@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\bin\Debug\net8.0\Codigo5.exe
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\bin\Debug\net8.0\Codigo5.deps.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\bin\Debug\net8.0\Codigo5.runtimeconfig.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\bin\Debug\net8.0\Codigo5.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\bin\Debug\net8.0\Codigo5.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\refint\Codigo5.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\Codigo5.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\17FEB\Codigo5\obj\Debug\net8.0\ref\Codigo5.dll

@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\bin\Debug\net8.0\Practica1.exe
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\bin\Debug\net8.0\Practica1.deps.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\bin\Debug\net8.0\Practica1.runtimeconfig.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\bin\Debug\net8.0\Practica1.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\bin\Debug\net8.0\Practica1.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\refint\Practica1.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\Practica1.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\24FEB\Practica1\obj\Debug\net8.0\ref\Practica1.dll

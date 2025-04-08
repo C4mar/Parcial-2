@@ -1,0 +1,14 @@
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Escritorio\Escritorio\Proyectos C sharp\18FEB\Factorial\obj\Debug\net8.0\ref\Factorial.dll
