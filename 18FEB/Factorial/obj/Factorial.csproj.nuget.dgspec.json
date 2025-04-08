@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Factorial\\Factorial.csproj": {}
+    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Factorial\\Factorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Factorial\\Factorial.csproj": {
+    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Factorial\\Factorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Factorial\\Factorial.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Factorial\\Factorial.csproj",
         "projectName": "Factorial",
-        "projectPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Factorial\\Factorial.csproj",
+        "projectPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Factorial\\Factorial.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Factorial\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Factorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config"

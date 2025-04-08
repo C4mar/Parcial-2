@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Fibonacci\\Fibonacci.csproj": {}
+    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Fibonacci\\Fibonacci.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Fibonacci\\Fibonacci.csproj": {
+    "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Fibonacci\\Fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Fibonacci\\Fibonacci.csproj",
+        "projectUniqueName": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Fibonacci\\Fibonacci.csproj",
         "projectName": "Fibonacci",
-        "projectPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Fibonacci\\Fibonacci.csproj",
+        "projectPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Fibonacci\\Fibonacci.csproj",
         "packagesPath": "C:\\Users\\oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\18FEB\\Fibonacci\\obj\\",
+        "outputPath": "C:\\Users\\oscar\\OneDrive\\Escritorio\\Escritorio\\Proyectos C sharp\\Parcial 2\\18FEB\\Fibonacci\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\oscar\\AppData\\Roaming\\NuGet\\NuGet.Config"
