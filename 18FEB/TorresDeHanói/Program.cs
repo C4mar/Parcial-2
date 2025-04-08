@@ -9,16 +9,16 @@ namespace TorresDeHanoi
             Console.WriteLine("Torres de Hanoi - Solución recursiva");
             Console.WriteLine("=================================");
             
-            // Get the number of discs from the user
+            // Obtener el número de discos del usuario
             Console.Write("Ingrese el número de discos: ");
-            if (int.TryParse(Console.ReadLine(), out int numDisks) && numDisks > 0)
+            if (int.TryParse(Console.ReadLine(), out int numDiscos) && numDiscos > 0)
             {
-                Console.WriteLine($"\nMovimientos para resolver Torres de Hanoi con {numDisks} discos:");
+                Console.WriteLine($"\nMovimientos para resolver Torres de Hanoi con {numDiscos} discos:");
                 
-                // Start the recursive algorithm
-                int totalMoves = SolveHanoi(numDisks, 'A', 'C', 'B');
+                // Iniciar el algoritmo recursivo
+                int movimientosTotales = ResolverHanoi(numDiscos, 'A', 'C', 'B');
                 
-                Console.WriteLine($"\nSe completó la solución en {totalMoves} movimientos.");
+                Console.WriteLine($"\nSe completó la solución en {movimientosTotales} movimientos.");
             }
             else
             {
@@ -30,57 +30,57 @@ namespace TorresDeHanoi
         }
         
         /// <summary>
-        /// Solves the Towers of Hanoi puzzle recursively
+        /// Resuelve el puzzle de Torres de Hanoi recursivamente
         /// </summary>
-        /// <param name="n">Number of disks</param>
-        /// <param name="source">Source tower</param>
-        /// <param name="destination">Destination tower</param>
-        /// <param name="auxiliary">Auxiliary tower</param>
-        /// <returns>The total number of moves required</returns>
-        static int SolveHanoi(int n, char source, char destination, char auxiliary)
+        /// <param name="n">Número de discos</param>
+        /// <param name="origen">Torre de origen</param>
+        /// <param name="destino">Torre de destino</param>
+        /// <param name="auxiliar">Torre auxiliar</param>
+        /// <returns>El número total de movimientos requeridos</returns>
+        static int ResolverHanoi(int n, char origen, char destino, char auxiliar)
         {
-            int moveCount = 0;
+            int contadorMovimientos = 0;
             
             if (n == 1)
             {
-                // Base case: move the smallest disk directly from source to destination
-                Console.WriteLine($"Mover disco 1 desde torre {source} a torre {destination}");
+                // Caso base: mover el disco más pequeño directamente desde origen hasta destino
+                Console.WriteLine($"Mover disco 1 desde torre {origen} a torre {destino}");
                 return 1;
             }
             
-            // Step 1: Move n-1 disks from source to auxiliary using destination as auxiliary
-            moveCount += SolveHanoi(n - 1, source, auxiliary, destination);
+            // Paso 1: Mover n-1 discos desde origen hasta auxiliar usando destino como auxiliar
+            contadorMovimientos += ResolverHanoi(n - 1, origen, auxiliar, destino);
             
-            // Step 2: Move the largest disk from source to destination
-            Console.WriteLine($"Mover disco {n} desde torre {source} a torre {destination}");
-            moveCount++;
+            // Paso 2: Mover el disco más grande desde origen hasta destino
+            Console.WriteLine($"Mover disco {n} desde torre {origen} a torre {destino}");
+            contadorMovimientos++;
             
-            // Step 3: Move n-1 disks from auxiliary to destination using source as auxiliary
-            moveCount += SolveHanoi(n - 1, auxiliary, destination, source);
+            // Paso 3: Mover n-1 discos desde auxiliar hasta destino usando origen como auxiliar
+            contadorMovimientos += ResolverHanoi(n - 1, auxiliar, destino, origen);
             
-            return moveCount;
+            return contadorMovimientos;
         }
         
         /// <summary>
-        /// Alternative method to calculate the number of moves without recursion
+        /// Método alternativo para calcular el número de movimientos sin recursión
         /// </summary>
-        /// <param name="numDisks">Number of disks</param>
-        /// <returns>The total number of moves required</returns>
-        static int CalculateMinimumMoves(int numDisks)
+        /// <param name="numDiscos">Número de discos</param>
+        /// <returns>El número total de movimientos requeridos</returns>
+        static int CalcularMovimientosMinimos(int numDiscos)
         {
-            // Formula: 2^n - 1
-            return (int)Math.Pow(2, numDisks) - 1;
+            // Fórmula: 2^n - 1
+            return (int)Math.Pow(2, numDiscos) - 1;
         }
         
         /// <summary>
-        /// Visual representation of Towers of Hanoi (can be implemented for more interactive experience)
+        /// Representación visual de Torres de Hanoi (puede implementarse para una experiencia más interactiva)
         /// </summary>
-        static void DisplayTowers(int numDisks, int[] towerA, int[] towerB, int[] towerC)
+        static void MostrarTorres(int numDiscos, int[] torreA, int[] torreB, int[] torreC)
         {
             Console.WriteLine("\nEstado actual de las torres:");
-            Console.WriteLine("Torre A: " + string.Join(", ", towerA));
-            Console.WriteLine("Torre B: " + string.Join(", ", towerB));
-            Console.WriteLine("Torre C: " + string.Join(", ", towerC));
+            Console.WriteLine("Torre A: " + string.Join(", ", torreA));
+            Console.WriteLine("Torre B: " + string.Join(", ", torreB));
+            Console.WriteLine("Torre C: " + string.Join(", ", torreC));
         }
     }
 }
